@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="banner.png" alt="CodeLens Banner" width="100%">
+  <img src="codelens.png" alt="CodeLens Banner" width="100%">
 </p>
 
 <h1 align="center">CodeLens</h1>
