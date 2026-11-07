@@ -1,0 +1,6 @@
+PySide6
+requests
+python-dotenv
+Pillow
+reportlab
+pyinstaller
